@@ -1,9 +1,12 @@
 # v2ray
+本项目fork过来
+希望在安装为安装过程提供一些简化
 V2Ray 是 Project V 下的一个工具。Project V 包含一系列工具，帮助你打造专属的定制网络体系。而 V2Ray 属于最核心的一个。 简单地说，V2Ray 是一个与 Shadowsocks 类似的代理软件，但比Shadowsocks更具优势
 
 V2Ray 用户手册：https://www.v2ray.com
 
 V2Ray 项目地址：https://github.com/v2ray/v2ray-core
+
 
 # v2rayL
 
